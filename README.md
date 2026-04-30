@@ -1,4 +1,4 @@
-## Hi there 👋
+[Website](https://paralevel.github.io/) • [Contact](mailto:paralevel@duck.com) • [Sponsor](https://buymeacoffee.com/paralevel)
 
 <!--
 **paralevel/paralevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
